@@ -1,4 +1,4 @@
-body {
+head {
     background-color: white;
     font-family: Georgia;
     background-image: url("background.png");
@@ -6,23 +6,31 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+body {
+    background-color: white;
+    font-family: Georgia;
+}
 h1 {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
     color: black;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 h2 {
     color: black;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 h4 {
     color: black;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 h5 {
     color: black;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
