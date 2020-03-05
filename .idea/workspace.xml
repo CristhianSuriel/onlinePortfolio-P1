@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yga5dZ5FxuzYB1VR64PWD9DEhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="onlinePortfolio" type="Python.FlaskServer">
@@ -62,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583366508929</updated>
-      <workItem from="1583366511227" duration="1546000" />
+      <workItem from="1583366511227" duration="2306000" />
     </task>
     <servers />
   </component>
@@ -70,24 +75,28 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583367819891">
+    <state width="632" height="163" key="GridCell.Tab.0.bottom" timestamp="1583370207987">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583367819891" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1583367819891">
+    <state width="632" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583370207987" />
+    <state width="632" height="163" key="GridCell.Tab.0.center" timestamp="1583370207985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583367819891" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1583367819891">
+    <state width="632" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583370207985" />
+    <state width="632" height="163" key="GridCell.Tab.0.left" timestamp="1583370207985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583367819891" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1583367819891">
+    <state width="632" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583370207985" />
+    <state width="632" height="163" key="GridCell.Tab.0.right" timestamp="1583370207986">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583367819891" />
+    <state width="632" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583370207986" />
+    <state x="282" y="0" key="SettingsEditor" timestamp="1583370257998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583370257998" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/onlinePortfolio$onlinePortfolio.coverage" NAME="onlinePortfolio Coverage Results" MODIFIED="1583367819852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/onlinePortfolio$onlinePortfolio.coverage" NAME="onlinePortfolio Coverage Results" MODIFIED="1583370207952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
