@@ -1,7 +1,7 @@
 .Heading {
     background-color: white;
     font-family: Georgia;
-    background-image: url("background.png");
+    background-image: url("computer_desk.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -9,9 +9,13 @@
 body {
     background-color: white;
     font-family: Georgia;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 h1 {
-    background-image: url("background.png");
+    background-image: url("h1background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
