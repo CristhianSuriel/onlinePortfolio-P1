@@ -1,6 +1,6 @@
 .Heading {
     background-color: white;
-    font-family: Georgia;
+    font-family: sans-serif;
     background-image: url("computer_desk.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -8,7 +8,7 @@
 }
 body {
     background-color: white;
-    font-family: Georgia;
+    font-family: sans-serif;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
