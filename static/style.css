@@ -19,19 +19,14 @@ h1 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    color: #ff362f;
+    color: floralwhite;
     margin-right: fill;
     margin-left: fill;
-}
-h2 {
-    color: #ff362f;
-    margin-right: 50px;
-    margin-left: 50px;
 }
 h3 {
     color: black;
 }
-h4, h5 {
+h2, h4, h5 {
     color: black;
     margin-right: 50px;
     margin-left: 50px;
