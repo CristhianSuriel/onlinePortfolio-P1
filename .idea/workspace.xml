@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6120c7d-1b13-41a4-86b5-2ddf1dc39e77" name="Default Changelist" comment="" />
+    <list default="true" id="a6120c7d-1b13-41a4-86b5-2ddf1dc39e77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/onlinePortfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/onlinePortfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -38,7 +47,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="onlinePortfolio" type="Python.FlaskServer">
@@ -47,7 +56,7 @@
       <option name="targetType" value="PATH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Python38-64\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -75,6 +84,8 @@
       <workItem from="1583693379278" duration="943000" />
       <workItem from="1583875458545" duration="2084000" />
       <workItem from="1583949475559" duration="1142000" />
+      <workItem from="1584029822090" duration="5000" />
+      <workItem from="1584126739566" duration="758000" />
     </task>
     <servers />
   </component>
@@ -86,28 +97,36 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="464" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1583370919616" />
-    <state width="594" height="163" key="GridCell.Tab.0.bottom" timestamp="1583512401155">
+    <state x="188" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584127310989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583512401155" />
-    <state width="594" height="163" key="GridCell.Tab.0.center" timestamp="1583512401155">
+    <state x="188" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584127310989" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1584127410448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583512401155" />
-    <state width="594" height="163" key="GridCell.Tab.0.left" timestamp="1583512401155">
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584127410448" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1584127497692">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583512401155" />
-    <state width="594" height="163" key="GridCell.Tab.0.right" timestamp="1583512401155">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584127497692" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1584127497691">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583512401155" />
-    <state x="282" y="0" key="SettingsEditor" timestamp="1583371059429">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584127497691" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1584127497690">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="282" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583371059429" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584127497690" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1584127497692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584127497692" />
+    <state x="282" y="0" key="SettingsEditor" timestamp="1584127450176">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584127450176" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/onlinePortfolio$onlinePortfolio.coverage" NAME="onlinePortfolio Coverage Results" MODIFIED="1583511087784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/onlinePortfolio$onlinePortfolio.coverage" NAME="onlinePortfolio Coverage Results" MODIFIED="1584127487061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
