@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6120c7d-1b13-41a4-86b5-2ddf1dc39e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Cristhian.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
       <workItem from="1584288742643" duration="6000" />
       <workItem from="1584297898024" duration="312000" />
       <workItem from="1584300917902" duration="64000" />
+      <workItem from="1585494691688" duration="1429000" />
     </task>
     <servers />
   </component>
