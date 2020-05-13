@@ -3,6 +3,7 @@
 <head>
     <!-- links the html file to the css file-->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="myJavascript.js"></script>
 </head>
 <body>
     <!-- This is the about me section -->
@@ -12,7 +13,7 @@
     <h2><strong><center>
         Hello, my name is Cristhian and welcome to my Online Portfolio!
     </center></strong></h2>
-    <h1><strong><center>
+    <h1 clas="subHeading" onmouseover="grow(this)" onmouseout="shrink(this)"><strong><center>
         About Me
     </center></strong></h1>
     <h4><center>
@@ -31,7 +32,7 @@
         <a href="https://www.github.com/CristhianSuriel" target="_blank"><img src="/static/github-icon.png" /></a>
     </center></em></h5>
     <!-- This section contains my projects -->
-    <h1><strong><center>
+    <h1 class="subHeading" onmouseover="grow(this)" onmouseout="shrink(this)"><strong><center>
         My Projects
     </center></strong></h1>
     <ul>
@@ -91,7 +92,7 @@
         </h4></li>
     </ul>
     <!-- This section contains my work experiences -->
-    <h1><strong><center>Work Experience</center></strong></h1>
+    <h1 class="subHeading" onmouseover="grow(this)" onmouseout="shrink(this)"><strong><center>Work Experience</center></strong></h1>
     <ul>
         <li><h2><strong>
             Lead Instructor at CodeAdvantage LLC
